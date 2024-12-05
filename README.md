@@ -1,5 +1,5 @@
 
-# Python Projects: Simple Interest Calculator and High Score Manager
+# Simple Interest Calculator and High Score Manager in Python
 
 ## Overview
 
@@ -88,3 +88,11 @@ This repository contains two Python projects developed by **Yousef Elzidani**:
 - [Programming with Mosh - Python for Beginners](https://youtu.be/_uQrJ0TkZlc)
 - [Real Python Tutorials](https://realpython.com/)
 - [Python Official Documentation](https://docs.python.org/3/)
+
+
+![Uploading Simple Interest Calculator and High Score Manager.png…]()
+
+
+
+
+
