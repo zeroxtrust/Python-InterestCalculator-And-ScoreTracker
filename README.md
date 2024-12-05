@@ -90,7 +90,8 @@ This repository contains two Python projects developed by **Yousef Elzidani**:
 - [Python Official Documentation](https://docs.python.org/3/)
 
 
-![Uploading Simple Interest Calculator and High Score Manager.png…]()
+![Uploading HManager.png…]()
+
 
 
 
