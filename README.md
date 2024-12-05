@@ -90,7 +90,7 @@ This repository contains two Python projects developed by **Yousef Elzidani**:
 - [Python Official Documentation](https://docs.python.org/3/)
 
 
-![Uploading HManager.png…]()
+![sds](https://github.com/user-attachments/assets/640005a7-add3-44f8-b7af-8368a0462286)
 
 
 
