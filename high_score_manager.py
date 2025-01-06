@@ -1,6 +1,6 @@
 
 # High Score Manager
-# Developed by Yousef Elzidani
+# Developed by ZeroTrustX
 
 print("Welcome to the Score Manager") 
 
