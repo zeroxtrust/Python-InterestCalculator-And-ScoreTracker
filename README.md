@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains two Python projects developed by **Yousef Elzidani**:
+This repository contains two Python projects developed by **ZeroTrustX**:
 
 1. **Simple Interest Calculator**: A user-friendly tool to calculate the simple interest for a bank deposit.
 2. **High Score Manager**: A utility to manage and update high scores for a game, featuring robust input validation and file handling.
@@ -79,7 +79,7 @@ This repository contains two Python projects developed by **Yousef Elzidani**:
 
 ## Author
 
-**Yousef Elzidani**  
+**ZeroTrustX**  
 
 ---
 
