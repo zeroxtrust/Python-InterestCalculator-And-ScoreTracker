@@ -52,7 +52,7 @@ This repository contains two Python projects developed by **ZeroTrustX**:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yousefelzidani/Python-InterestCalculator-And-ScoreTracker.git
+   git clone https://github.com/zeroxtrust/Python-InterestCalculator-And-ScoreTracker.git
    ```
 2. Navigate to the project directory:
    ```bash
