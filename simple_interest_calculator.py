@@ -1,6 +1,6 @@
 
 # Simple Interest Calculator
-# Developed by Yousef Elzidani
+# Developed by ZeroTrustX
 
 def get_positive_float(prompt):
     while True:
