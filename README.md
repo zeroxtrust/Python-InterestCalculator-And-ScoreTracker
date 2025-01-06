@@ -90,7 +90,7 @@ This repository contains two Python projects developed by **ZeroTrustX**:
 - [Python Official Documentation](https://docs.python.org/3/)
 
 
-![sds](https://github.com/user-attachments/assets/640005a7-add3-44f8-b7af-8368a0462286)
+
 
 
 
